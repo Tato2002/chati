@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chati/static/css/main.e6c13ad2.css",
+    "main.js": "/chati/static/js/main.d77ae022.js",
+    "index.html": "/chati/index.html",
+    "main.e6c13ad2.css.map": "/chati/static/css/main.e6c13ad2.css.map",
+    "main.d77ae022.js.map": "/chati/static/js/main.d77ae022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d77ae022.js"
+  ]
+}
